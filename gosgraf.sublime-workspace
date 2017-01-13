@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"Cliente",
+				"Clientes"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"border-bot",
+				"border-bottom-right-radius"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"paddin",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/View/Pages/home.ctp",
+			"settings":
+			{
+				"buffer_size": 1770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/View/Elements/navigation.ctp",
+			"settings":
+			{
+				"buffer_size": 2345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Model/Cliente.php",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Model/Cliente_old.php",
+			"settings":
+			{
+				"buffer_size": 756,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Controller/ClientesController.php",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Controller/ClientesController_old.php",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/View/Clientes/index.ctp",
+			"settings":
+			{
+				"buffer_size": 2452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/View/Clientes_old/index.ctp",
+			"settings":
+			{
+				"buffer_size": 6420,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/gosgraf/app/View/Clientes/add.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/Model/Cliente.php",
+		"/C/inetpub/wwwroot/gosgraf/lib/Cake/View/Scaffolds/index.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Clientes/view.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Clientes/index.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Clientes/edit.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/Controller/ClientesController.php",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/index.php",
+		"/C/inetpub/wwwroot/gosgraf/app/Controller/AppController.php",
+		"/C/inetpub/wwwroot/gosgraf/app/Model/clientes.php",
+		"/C/inetpub/wwwroot/gosgraf/index.php",
+		"/C/inetpub/wwwroot/gosgraf/lib/Cake/Model/ConnectionManager.php",
+		"/C/inetpub/wwwroot/gosgraf/lib/Cake/Model/Model.php",
+		"/C/inetpub/wwwroot/gosgraf/app/Config/database.php",
+		"/C/inetpub/wwwroot/gosgraf/app/Config/acl.php",
+		"/C/inetpub/wwwroot/gosgraf/app/Config/acl.ini.php",
+		"/C/inetpub/wwwroot/gosgraf/app/Config/bootstrap.php",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/css/bootstrap.min.css",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Layouts/bootstrap.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/css/stylelogin.css",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/js/ie10-viewport-bug-workaround.js",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/js/ie-emulation-modes-warning.js",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/css/signin.css",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Layouts/css/bootstrap.min.css",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Elements/navigation.ctp",
+		"/C/inetpub/wwwroot/gosgraf/app/webroot/css/stylelogin",
+		"/C/inetpub/wwwroot/gosgraf/app/Controller/PagesController.php",
+		"/C/inetpub/wwwroot/gosgraf/app/index.php",
+		"/C/inetpub/wwwroot/gosgraf/lib/Cake/Test/Case/Model/models.php",
+		"/C/inetpub/wwwroot/gosgraf/build.xml",
+		"/C/inetpub/wwwroot/gosgraf/composer.json",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Layouts/default.ctp",
+		"/C/inetpub/wwwroot/gosgraf/web.config",
+		"/C/inetpub/wwwroot/gosgraf/.htaccess",
+		"/C/inetpub/wwwroot/gosgraf/.gitattributes",
+		"/C/inetpub/wwwroot/gosgraf/.editorconfig",
+		"/C/inetpub/wwwroot/gosgraf/app/View/Layouts/js/bootstrap.min.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\inetpub\\wwwroot\\gosgraf"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<h2><?php echo",
+			"previous",
+			"bootstrap.min.css",
+			"dropdown-menu",
+			"caret",
+			"dropdown",
+			"05502064",
+			"title",
+			"Home",
+			"Your version",
+			"Project name",
+			"Project"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/View/Pages/home.ctp",
+					"settings":
+					{
+						"buffer_size": 1770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/View/Elements/navigation.ctp",
+					"settings":
+					{
+						"buffer_size": 2345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1625,
+								1625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Model/Cliente.php",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Model/Cliente_old.php",
+					"settings":
+					{
+						"buffer_size": 756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Controller/ClientesController.php",
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Controller/ClientesController_old.php",
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/View/Clientes/index.ctp",
+					"settings":
+					{
+						"buffer_size": 2452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2412,
+								2412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 419.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/View/Clientes_old/index.ctp",
+					"settings":
+					{
+						"buffer_size": 6420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true
+}
